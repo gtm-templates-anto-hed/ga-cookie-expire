@@ -6,6 +6,6 @@ With the new General Data Protection Regulation for Europe, cookies must have a 
 
 Currently a Google Analytics cookie is set for 24 months. Google doesn't allow to modify the life of the cookie natively yet.
 
-Select the duration to set a time in seconds to use in Google Analytics tags / settings.
+Select the duration to set a time in seconds to use in Google Analytics tags / setting fields to set.
 
-This variable helps you set a cookie duration when you set cookieExpire in the Set field without need to convert in second.
+This variable helps you easily to set a cookie duration when you set cookieExpire without need to convert in second manually.
