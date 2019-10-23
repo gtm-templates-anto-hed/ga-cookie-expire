@@ -1,3 +1,8 @@
 versions:
+  # Last version
+  - sha: 2e7c61c9e7014ecafcb9f22d7c9d7e7539590258
+    changeNotes: Add description and 12 months
+    
+  # Older versions
   - sha: 7488723ec87c8a6938a69c3d54b092d3f464b9ef
     changeNotes: Initial release.
