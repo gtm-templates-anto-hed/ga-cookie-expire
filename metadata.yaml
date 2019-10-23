@@ -1,9 +1,8 @@
 versions:
   # Last version
   - sha: 2c43872c5052cd8e08c7665c2adebfcc3dbf0f29
-  changeNotes: |3
-    Change name of template
-    
+  changeNotes: |2
+    Change name of template    
   # Older versions
   - sha: 2e7c61c9e7014ecafcb9f22d7c9d7e7539590258
   changeNotes: Add description and 12 months
