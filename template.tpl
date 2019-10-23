@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Cookie Time Expire for GDPR",
+  "displayName": "Cookie Duration for GDPR",
   "categories": ["ANALYTICS"],
   "description": "Return in second, the lifetime of cookie. Use to Field To Set field in Google Analytics tag / settings.",
   "containerContexts": [
