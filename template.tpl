@@ -101,5 +101,6 @@ Version: 1.1.0
 Change Log : 
 1.0.0: Initial Version
 1.1.0: Add description and 12 months input
+1.1.1: Change Name of Custom Template
 
 Created on 22/10/2019 à 09:56:24
