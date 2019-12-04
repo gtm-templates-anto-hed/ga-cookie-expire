@@ -12,7 +12,7 @@ This variable help you to convert time.
 
 The variable calculted a new value with above conditions
 
-## Exemple
+## Example
 
 - Easily to Setup the interval in milliseconds in GTM Timer
 - Easily to Setup the cookieExpire field to Set GA Settings
