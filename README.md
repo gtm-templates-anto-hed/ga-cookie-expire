@@ -2,4 +2,19 @@
 
 ## Description
 
-Easily convert time units ex : seconds in milliseconds return an integer value
+This variable help you to convert time.
+
+## Setup
+
+- Enter an input value to convert
+- Selected the initiale time unit
+- Selected the desired time unit
+
+The variable calculted a new value with above conditions
+
+## Exemple
+
+- Easily to Setup the interval in milliseconds in GTM Timer
+- Easily to Setup the cookieExpire field to Set GA Settings
+- Easily to Setup the Cookie Expire in a custom cookie
+- ...
