@@ -1,5 +1,5 @@
 homepage: "https://antoine-hervillard.com/"
-documentation: "https://github.com/gtm-templates-anto-hed/time-convertor/blob/master/README.md"
+documentation: "https://antoine-hervillard.com/gtm-template-variable-time-convertor/"
 versions:
   - sha: 2180abb3e4f2e6975c5b6e9edc9f9f3c2c2f2d04
     changeNotes: Initial release.
